@@ -1,0 +1,1 @@
+To start, let's make our title "My Todo List" into a header. Since its presumably the largest header needed on our page, we can make it an h1.

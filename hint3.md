@@ -1,0 +1,1 @@
+Next we have our actual Todo List items. These aren't leveraging HTML's built-in lists, and therefore aren't utilize the preferred semantic way to define a list. Since there seems to be order to our todo list (we have things numbered), we should probably use a `<ol>`, with each of the items as a `<li>`. 
